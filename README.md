@@ -1,2 +1,2 @@
 # mlcode
-a set oif basic ml alogorithms implemnted on varoious dataset's
+a set of basic ml alogorithms implemnted on varoious dataset's
